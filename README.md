@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
-<h3 align="center">A passionate frontend developer from Spain, based in Manchester</h3>
+<h3 align="center">A passionate fullstack developer from Spain, based in Manchester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garanaw&label=Profile%20views&color=0e75b6&style=flat" alt="garanaw" /> </p>
 
